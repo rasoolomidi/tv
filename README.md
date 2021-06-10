@@ -5,7 +5,7 @@
   "شبکه ۴": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۴۳۷_sf32.png",
   "شبکه ۵": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۴۲۱_wvus.png",
   "خبر": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۶۲۳_5nil.png",
-  "ورزش": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۲۴۹_unj5.png",
+  "ورزش": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۳۵۷۲۷_tg4g.png",
   "مستند": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۵۲۲_1f47.png",
   "تماشا": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۵۱۱_g5rq.png",
   "نمایش": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۸۴۹_42au.png",
