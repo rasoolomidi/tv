@@ -12,10 +12,10 @@
   "شما": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۵۴۲_wwae.png",
   "پویا": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۶۴۴_qfhz.png",
   "نسیم": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۹۰۵_4ej7.png",
-  "قرآن": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۱۲۱_pwt.png",
-  "افق": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۱۴۶_pb8o.png",
-  "ایران کالا": "https://s4.uupload.ir/files/irankala_c2mq.png",
-  "امید": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۶۰۷۱۶_dz4b.png",
-  "آموزش": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۶۰۶۳۰_wlai.png",
-  "سلامت": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۶۰۵۴۴_2i8y.png"
+  "قرآن": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۷۵۹_2fw3.png",
+  "افق": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۷۲۵_ylr.png",
+  "ایران کالا": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۳۲۷_2i8g.png",
+  "امید": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۳۵۰_ufd1.png",
+  "آموزش": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۳۰۷_ti2u.png",
+  "سلامت": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۴۰۶_8ttq.png"
 }
