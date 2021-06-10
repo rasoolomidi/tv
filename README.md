@@ -1,7 +1,7 @@
 {
-  "شبکه ۱": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۲۰۲_3au9.png",
-  "شبکه ۲": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۳۳۵_k4yi.png",
-  "شبکه ۳": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۷۲۳_l28m.png",
+  "شبکه ۱": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۷۰۲_uo97.png",
+  "شبکه ۲": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۵۵۸_m7xq.png",
+  "شبکه ۳": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۲۱۵۴۵۴_xjdt.png",
   "شبکه ۴": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۵۴۱۴۳_7n7x.png",
   "شبکه ۵": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۵۴۴۴۷_6vit.png",
   "خبر": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۰۵۶_yhmw.png",
