@@ -1,1 +1,21 @@
-# tv
+{
+  "شبکه ۱": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۲۰۲_3au9.png",
+  "شبکه ۲": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۳۳۵_k4yi.png",
+  "شبکه ۳": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۷۲۳_l28m.png",
+  "شبکه ۴": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۵۴۱۴۳_7n7x.png",
+  "شبکه ۵": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۵۴۴۴۷_6vit.png",
+  "خبر": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۰۵۶_yhmw.png",
+  "ورزش": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۲۴۹_unj5.png",
+  "مستند": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۴۱۷_0wh6.png",
+  "تماشا": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۴۳۹_xqo4.png",
+  "نمایش": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۰۳۱_bfvl.png",
+  "شما": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۴۰۰_6aqt.png",
+  "پویا": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۲۲۵_ufog.png",
+  "نسیم": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۲۹۳۳_nnk9.png",
+  "قرآن": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۱۲۱_pwt.png",
+  "افق": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۰۳۱۴۶_pb8o.png",
+  "ایران کالا": "https://s4.uupload.ir/files/irankala_c2mq.png",
+  "امید": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۶۰۷۱۶_dz4b.png",
+  "آموزش": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۶۰۶۳۰_wlai.png",
+  "سلامت": "https://s4.uupload.ir/files/۲۰۲۱۰۶۱۰_۱۶۰۵۴۴_2i8y.png"
+}
